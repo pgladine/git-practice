@@ -1,0 +1,3 @@
+Name: Paloma
+Age: 36
+Favorite Color: green
