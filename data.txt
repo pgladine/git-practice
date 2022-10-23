@@ -1,4 +1,4 @@
 Name: Paloma
 Age: 36
 Favorite Color: green
-Pets: 2 cats 1 dog
+Pets: 2 cats 1 dog.
